@@ -1,8 +1,8 @@
 Looking at all the assembly code from each of the .S files 
 I attached to this repository, there are a few general similarities 
-and differences I can see. I looks like all of the files have a
+and differences. It looks like all of the files have a
 similar structure. For example at the top of each of them
-it says the name of the file, and various definitions. There are
+it says the name of the file and various definitions. There are
 also several sections throughout the code that start with LF followed by
 another letter and a number. There are also sections that are just L followed
 by a number. There are also what appears to be functions being used several
